@@ -6,7 +6,7 @@
 
     <groupId>com.github.cuittzq</groupId>
     <artifactId>MysqlPaginationPlugin</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.1</version>
     <dependencies>
         <dependency>
             <groupId>mysql</groupId>
