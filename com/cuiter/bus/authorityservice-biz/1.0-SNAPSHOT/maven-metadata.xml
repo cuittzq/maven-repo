@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata modelVersion="1.1.0">
   <groupId>com.cuiter.bus</groupId>
-  <artifactId>authorityservice-dal</artifactId>
+  <artifactId>authorityservice-biz</artifactId>
   <version>1.0-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20190402.071459</timestamp>
+      <timestamp>20190402.071558</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20190402071459</lastUpdated>
+    <lastUpdated>20190402071558</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>1.0-20190402.071459-1</value>
-        <updated>20190402071459</updated>
+        <value>1.0-20190402.071558-1</value>
+        <updated>20190402071558</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>1.0-20190402.071459-1</value>
-        <updated>20190402071459</updated>
+        <value>1.0-20190402.071558-1</value>
+        <updated>20190402071558</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
