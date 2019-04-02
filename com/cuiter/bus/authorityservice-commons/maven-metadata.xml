@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.cuiter.bus</groupId>
-  <artifactId>authorityservice</artifactId>
+  <artifactId>authorityservice-commons</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190402065319</lastUpdated>
+    <lastUpdated>20190402065358</lastUpdated>
   </versioning>
 </metadata>
