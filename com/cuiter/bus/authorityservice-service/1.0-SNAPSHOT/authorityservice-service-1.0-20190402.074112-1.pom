@@ -10,7 +10,21 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>authorityservice-mapper</artifactId>
+    <artifactId>authorityservice-service</artifactId>
+    <dependencies>
+        <dependency>
+            <groupId>com.cuiter.bus</groupId>
+            <artifactId>authorityservice-integration</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.cuiter.bus</groupId>
+            <artifactId>authorityservice-commons</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.cuiter.bus</groupId>
+            <artifactId>authorityservice-biz</artifactId>
+        </dependency>
+    </dependencies>
 
     <build>
         <defaultGoal>compile</defaultGoal>
