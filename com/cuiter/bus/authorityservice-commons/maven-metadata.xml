@@ -4,8 +4,8 @@
   <artifactId>authorityservice-commons</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>1.0.0.20190402002-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190402080407</lastUpdated>
+    <lastUpdated>20190402081003</lastUpdated>
   </versioning>
 </metadata>
