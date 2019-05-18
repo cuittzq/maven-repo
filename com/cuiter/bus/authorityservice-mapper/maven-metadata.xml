@@ -3,9 +3,10 @@
   <groupId>com.cuiter.bus</groupId>
   <artifactId>authorityservice-mapper</artifactId>
   <versioning>
+    <release>1.0.0.20190518.Release</release>
     <versions>
-      <version>1.0.0.20190402003-SNAPSHOT</version>
+      <version>1.0.0.20190518.Release</version>
     </versions>
-    <lastUpdated>20190518144814</lastUpdated>
+    <lastUpdated>20190518150333</lastUpdated>
   </versioning>
 </metadata>
