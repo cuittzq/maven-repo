@@ -3,10 +3,10 @@
   <groupId>com.cuiter.bus</groupId>
   <artifactId>authorityservice-integration</artifactId>
   <versioning>
-    <release>1.0.0.20190527.Release</release>
+    <release>1.0.0.20190712.Release</release>
     <versions>
-      <version>1.0.0.20190527.Release</version>
+      <version>1.0.0.20190712.Release</version>
     </versions>
-    <lastUpdated>20190527093542</lastUpdated>
+    <lastUpdated>20190712083547</lastUpdated>
   </versioning>
 </metadata>
