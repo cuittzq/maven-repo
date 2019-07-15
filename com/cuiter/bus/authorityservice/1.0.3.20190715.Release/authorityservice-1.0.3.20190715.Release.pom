@@ -495,9 +495,18 @@
     </profiles>
     <repositories>
         <!-- 代码库 -->
+<!--        <repository>-->
+<!--            <id>maven-repo-master</id>-->
+<!--            <url>https://raw.github.com/cuittzq/maven-repo/master/</url>-->
+<!--            <snapshots>-->
+<!--                <enabled>true</enabled>-->
+<!--                <updatePolicy>always</updatePolicy>-->
+<!--            </snapshots>-->
+<!--        </repository>-->
+
         <repository>
             <id>maven-repo-master</id>
-            <url>https://raw.github.com/cuittzq/maven-repo/master/</url>
+            <url>https://gitee.com/tzq139/maven/raw/master/repository/</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>always</updatePolicy>
