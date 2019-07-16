@@ -3,10 +3,9 @@
   <groupId>com.cuiter.bus</groupId>
   <artifactId>authorityservice-biz</artifactId>
   <versioning>
-    <release>1.0.3.20190715.Release</release>
     <versions>
-      <version>1.0.3.20190715.Release</version>
+      <version>1.0.3.20190716-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190716013921</lastUpdated>
+    <lastUpdated>20190716023231</lastUpdated>
   </versioning>
 </metadata>
