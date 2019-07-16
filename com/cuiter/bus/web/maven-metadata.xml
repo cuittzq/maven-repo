@@ -3,10 +3,9 @@
   <groupId>com.cuiter.bus</groupId>
   <artifactId>web</artifactId>
   <versioning>
-    <release>1.0.0.20190518.Release</release>
     <versions>
-      <version>1.0.0.20190518.Release</version>
+      <version>1.0.3.20190716-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190518150530</lastUpdated>
+    <lastUpdated>20190716024333</lastUpdated>
   </versioning>
 </metadata>
