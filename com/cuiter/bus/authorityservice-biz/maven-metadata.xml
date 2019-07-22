@@ -4,8 +4,8 @@
   <artifactId>authorityservice-biz</artifactId>
   <versioning>
     <versions>
-      <version>1.0.3.20190716-SNAPSHOT</version>
+      <version>1.0.3.20190722-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190717032744</lastUpdated>
+    <lastUpdated>20190722151117</lastUpdated>
   </versioning>
 </metadata>
