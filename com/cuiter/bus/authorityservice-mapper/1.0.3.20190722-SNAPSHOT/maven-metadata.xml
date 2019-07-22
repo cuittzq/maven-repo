@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.cuiter.bus</groupId>
+  <artifactId>authorityservice-mapper</artifactId>
+  <version>1.0.3.20190722-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20190722.151203</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20190722151203</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.0.3.20190722-20190722.151203-1</value>
+        <updated>20190722151203</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.0.3.20190722-20190722.151203-1</value>
+        <updated>20190722151203</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

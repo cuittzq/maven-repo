@@ -4,8 +4,8 @@
   <artifactId>authorityservice-mapper</artifactId>
   <versioning>
     <versions>
-      <version>1.0.3.20190716-SNAPSHOT</version>
+      <version>1.0.3.20190722-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20190717032830</lastUpdated>
+    <lastUpdated>20190722151203</lastUpdated>
   </versioning>
 </metadata>
